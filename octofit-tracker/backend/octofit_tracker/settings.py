@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-abp&2$1+m@7735$9ui)n8pqhnyj&70&k^pqf17_qcun0ubyi5@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'glorious-engine-xvg9prx7v9f9x6r-8000.app.github.dev']
 
 
 # Application definition
